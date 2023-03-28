@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
     int num;
-    printf("Input: ");
+    printf("harish: ");
     printf("Input number: ");
     scanf("%d", &num);
 
